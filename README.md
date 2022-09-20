@@ -19,4 +19,6 @@ For each table, index values represent combinations of columns "pf1" and "pf2"; 
 ##### Reference trees were taken from NCBI Taxonomy database as a restriction on the given taxa and converted into Newick format
 
 
+##### Full version of figure 2 from text: Distribution densities of the proportion of distances between sequences appear to be greater in the case of using most of the protein sequences
+
 <img src="https://github.com/belozersky321/2-Domain_proteins_data/blob/main/kde_1.png">
