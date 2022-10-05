@@ -16,8 +16,11 @@
 
 For each table, index values represent combinations of columns "pf1" and "pf2"; proteins grouped by unique values in index form orthologous groups.
 
+---
+
 ##### Reference trees were taken from NCBI Taxonomy database as a restriction on the given taxa and converted into Newick format
 
+---
 
 ##### Full version of figure 2 from text: Distribution densities of the proportion of distances between sequences appear to be greater in the case of using most of the protein sequences
 
